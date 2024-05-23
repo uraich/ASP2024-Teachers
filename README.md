@@ -1,4 +1,4 @@
-# Atelier des petites Expérience de Physique et de l'Internet des Objets 
+# Atelier des petites Expérience de Physique et de l'Internet des Objets pour professeurs d'école.
 Documentation de l'atelier IoT (**I**nternet **o**f **T**hings, Internet des Objets) à ASP2024 (African School of Physics, l'École de Physique Fondamentale) Marrakech
 
 Ces pages sont dédié au cours pour les professeurs d'école.
