@@ -11,6 +11,6 @@ L'équipement de l'atelier est très peu chère (~ 20 Euros par kit) et consiste
 * un fond de panier avec 3 places reliant la carte CPU avec les cartes capteurs ou actionneurs
 * un interrupteur bouton connecté a une ligne GPIO via le fond de panier
 * un potentiomètre 10 k&Omega; connecté au Convertisseur Analogique Digital (ADC, **A**anlog to **D**igital **C**onverter)
-* un anneau avec 7 LED couleur (neopixel)
+* un anneau avec 7 LEDs couleur (neopixel)
 
 Pour plus d'information regardez les page Wiki de ce dépôt github s.v.p.
