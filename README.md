@@ -1,2 +1,7 @@
 # ASP2024-Teachers
-ASP 2024 cours pour professeurs
+Documentation de l'atelier IoT (**I**nternet **o**f **T**hings, Internet des Objets) à ASP2024 (African School of Physics, l'Ècole de Physique Fondamentale) Marrakech
+
+Ces pages sont dédié au cours pour les professeurs d'école.
+
+##Introduction
+Pendent ASP
