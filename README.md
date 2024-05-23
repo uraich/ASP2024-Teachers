@@ -10,7 +10,7 @@ L'équipement de l'atelier est très peu chère (~ 20 Euros par kit) et consiste
 * un câble USB-C (ou micro USB) pour communiquer entre PC et ESP32. Cette connexion est utilisé pour programmer la mémoire flash, pour télécharger les programmes Python de l'utilisateur et pour visualiser du texte imprimé par les programmes
 * un fond de panier avec 3 places reliant la carte CPU avec les cartes capteurs ou actionneurs
 * un interrupteur bouton connecté a une ligne GPIO via le fond de panier
-* un potentiomètre 10 k&Omega connecté au Convertisseur Analogique Digital (ADC, **A**anlog to **D**igital **C**onverter)
+* un potentiomètre 10 k&Omega; connecté au Convertisseur Analogique Digital (ADC, **A**anlog to **D**igital **C**onverter)
 * un anneau avec 7 LED couleur (neopixel)
 
 Pour plus d'information regardez les page Wiki de ce dépôt github s.v.p.
